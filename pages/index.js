@@ -6,8 +6,10 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Mega7 POC!</title>
         <link rel="icon" href="/favicon.ico" />
+        <script>alert(document.domain)</script>
+        <script>alert('Mega7 POC')</script></script>
       </Head>
 
       <main>
